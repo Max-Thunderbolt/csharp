@@ -1,0 +1,57 @@
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\bin\Debug\net8.0-windows\ToastedSandwichGuide.exe
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\bin\Debug\net8.0-windows\Images\add.png
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\bin\Debug\net8.0-windows\Images\recipe-book.png
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\bin\Debug\net8.0-windows\ToastedSandwichGuide.deps.json
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\bin\Debug\net8.0-windows\ToastedSandwichGuide.runtimeconfig.json
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\bin\Debug\net8.0-windows\ToastedSandwichGuide.dll
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\bin\Debug\net8.0-windows\ToastedSandwichGuide.pdb
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\CreateRecipe.g.cs
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\RecipeMenu.g.cs
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide_Content.g.cs
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide_MarkupCompile.cache
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide_MarkupCompile.lref
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\CreateRecipe.baml
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\RecipeMenu.baml
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide.g.resources
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide.AssemblyInfoInputs.cache
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide.AssemblyInfo.cs
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide.csproj.CoreCompileInputs.cache
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide.dll
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\refint\ToastedSandwichGuide.dll
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide.pdb
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ToastedSandwichGuide.genruntimeconfig.cache
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ref\ToastedSandwichGuide.dll
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ViewRecipes.g.cs
+C:\Users\maxat\OneDrive\Desktop\ToastedSandwichGuide\obj\Debug\net8.0-windows\ViewRecipes.baml
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\RecipeMenu.g.cs
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide_Content.g.cs
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide_MarkupCompile.cache
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide_MarkupCompile.lref
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide.dll
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\refint\ToastedSandwichGuide.dll
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide.pdb
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\ToastedSandwichGuide.exe
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\Images\add.png
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\Images\recipe-book.png
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\ToastedSandwichGuide.deps.json
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\ToastedSandwichGuide.runtimeconfig.json
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\ToastedSandwichGuide.dll
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\ToastedSandwichGuide.pdb
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\RecipeMenu.baml
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide.g.resources
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide.AssemblyInfoInputs.cache
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide.AssemblyInfo.cs
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide.csproj.CoreCompileInputs.cache
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ToastedSandwichGuide.genruntimeconfig.cache
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\obj\Debug\net8.0-windows\ref\ToastedSandwichGuide.dll
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\Images\magnifier.png
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\Images\right.png
+C:\Users\maxat\OneDrive\Desktop\Toasted Sandwich Guide\bin\Debug\net8.0-windows\Images\background.jpg

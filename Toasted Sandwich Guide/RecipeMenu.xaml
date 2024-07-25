@@ -1,0 +1,70 @@
+﻿<Window x:Class="ToastedSandwichGuide.RecipeMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToastedSandwichGuide"
+        mc:Ignorable="d"
+        Title="Recipe" Height="914" Width="1474" Background="Wheat">
+
+    <Grid>
+        <Image x:Name="BackgroundImage" HorizontalAlignment="Left" Height="914" Margin="0,0,0,0" VerticalAlignment="Top" Width="1474" Source="/Images/background.jpg" />
+        <Image x:Name="OpenBook" HorizontalAlignment="Left" Height="392" Margin="34,10,0,0" VerticalAlignment="Top" Width="844" Source="/Images/open-recipe-book.png">
+            <Image.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFE6E9ED" Offset="1"/>
+                </LinearGradientBrush>
+            </Image.OpacityMask>
+        </Image>
+
+        <Button x:Name="ViewRecipesButton" Content="View Recipes" HorizontalAlignment="Left" Margin="116,177,0,0" VerticalAlignment="Top" Width="236" Click="ViewRecipesNames" Background="#FFF5F7FA" Foreground="Black" BorderThickness="0" Height="29" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+        <Button x:Name="SearchRecipeButton" Content="Search for a Recipe" HorizontalAlignment="Left" Margin="116,131,0,0" VerticalAlignment="Top" Width="236" Click="ShowRecipeNameField" Background="#FFF5F7FA" Foreground="Black" BorderThickness="0" Height="29" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+        <Button x:Name="CreateRecipeButton" Content="Create a Recipe" HorizontalAlignment="Left" Margin="116,84,0,0" VerticalAlignment="Top" Width="236" Click="AddRecipe_Click" Background="#FFF5F7FA" Foreground="Black" BorderThickness="0" Height="29" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+        <Button x:Name="ScaleRecipeButton" Content="Scale a Recipe" HorizontalAlignment="Left" Margin="116,217,0,0" VerticalAlignment="Top" Width="236" Click="ScaleRecipe_Click" Background="#FFF5F7FA" Foreground="Black" BorderThickness="0" Height="37" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Left" Margin="116,259,0,0" VerticalAlignment="Top" Width="236" Click="Close" Background="#FFF5F7FA" Foreground="Black" BorderThickness="0" Height="43" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+
+        <Label x:Name="RecipeNameLabel" Content="Name" HorizontalAlignment="Left" Margin="416,84,0,0" VerticalAlignment="Top" Width="90" Background="#FFE6E9ED" Height="29" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+        <TextBox x:Name="recipeNameTextBox" HorizontalAlignment="Left" Margin="506,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" Height="29" Background="#FFE6E9ED" TextChanged="recipeNameTextBox_TextChanged" BorderThickness="1" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+
+        <Label x:Name="NumberOfIngredients" Content="Number of ingredients" HorizontalAlignment="Left" Margin="416,131,0,0" VerticalAlignment="Top" Height="41" Background="#FFE6E9ED" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+        <TextBox x:Name="NumberOfIngredientsTextBox" HorizontalAlignment="Left" Margin="627,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="37" Height="29" RenderTransformOrigin="-0.116,0.542" Background="#FFE6E9ED" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+
+        <Label x:Name="ScaleRecipeLabel" Content="Scale Factor" HorizontalAlignment="Left" Margin="416,131,0,0" VerticalAlignment="Top" Height="41" Background="#FFE6E9ED" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+
+        <Label x:Name="NumberOfSteps" Content="Number of steps" HorizontalAlignment="Left" Margin="416,176,0,0" VerticalAlignment="Top" Height="41" Background="#FFE6E9ED" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+        <TextBox x:Name="NumberOfStepsTextBox" HorizontalAlignment="Left" Margin="575,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="42" Height="29" RenderTransformOrigin="-0.116,0.542" Background="#FFE6E9ED" FontFamily="Bahnschrift SemiBold" FontSize="20"/>
+
+        <Button x:Name="AddNumIngredientsAndNumSteps" HorizontalAlignment="Left" Margin="617,177,0,0" VerticalAlignment="Top" Height="29" Width="42" Background="#FFE6E9ED" BorderBrush="#FFE6E9ED" Click="AddNumIngredientsAndSteps">
+            <Image x:Name="AddImage" Source="Images/add.png"></Image>
+        </Button>
+
+        <Grid>
+            <StackPanel HorizontalAlignment="Left" Height="188" VerticalAlignment="Top" Width="1364" Margin="60,569,0,0">
+                <ScrollViewer x:Name="ScrollDisplay" Height="186" Width="1358" FontFamily="Bahnschrift SemiBold">
+                    <StackPanel x:Name="pnlDisplay" Height="328" Width="1233"/>
+                </ScrollViewer>
+            </StackPanel>
+
+            <Button Name="SaveIngredientsAndSteps" Margin="1332,780,0,0" Click="AddNumIngredientsAndNumSteps_Click" Background="{x:Null}">
+                <Image Source="Images/add.png"></Image>
+            </Button>
+
+            <Button Name="Scale" Margin="620,295,801,566" Click="AddNumIngredientsAndNumSteps_Click" Background="{x:Null}">
+                <Image Source="Images/right.png"></Image>
+            </Button>
+
+            <Button Name="SearchForRecipeNameButton" HorizontalAlignment="Left" Margin="646,84,0,0" VerticalAlignment="Top" Height="29" Width="27" Click="SearchRecipe_Click">
+                <Image Source="Images/magnifier.png" OpacityMask="Wheat"></Image>
+            </Button>
+        </Grid>
+
+        <Grid Margin="10,10,-10,-11">
+            <StackPanel HorizontalAlignment="Left" Height="276" VerticalAlignment="Top" Width="249" Margin="408,39,0,0">
+                <TextBlock x:Name="RecipeDisplay" Height="329" Background="#FFE6E9ED" Width="278" FontFamily="Bahnschrift SemiBold"><InlineUIContainer>
+                        <StackPanel x:Name="pnlRecipeDisplay" Height="328" Width="1233"/>
+                    </InlineUIContainer></TextBlock>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
